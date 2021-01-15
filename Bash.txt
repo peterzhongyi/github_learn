@@ -1,3 +1,5 @@
+This is a test.
+
 What is Bash and why we will be using it?
 
     Bash is the shell, or interpreter on many Linux distributions that takes human commands and turns them into computer commands.
